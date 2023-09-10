@@ -1,0 +1,14 @@
+{
+  "name": "EasyGPT",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "dependencies": {
+    "eventsource-parser": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borsuczyna/bettergpt"
+  }
+}
